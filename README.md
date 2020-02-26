@@ -1,13 +1,13 @@
 # FRONTEND FOR SOCIAL APP
 
 ## Description
-  This is client code for social app using create-react-app.The code for backend api is in separate [repository](hthr)
+  This is client code for social app using create-react-app.The code for backend api is in separate [repository](https://github.com/SIndujan28/CINET)
 
 ## Requirements
   The core modules used for this developments are
-  ..* create-react-app
-  ..* material-ui
-  ..* react-router
+  1. create-react-app
+  2. material-ui
+  3. react-router
 
 ## Installation
 
